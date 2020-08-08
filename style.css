@@ -118,4 +118,13 @@ footer{
     .right-section li em, .right-section li, .right-section p{
         margin-left: 0;
     } 
+
+    .description {
+        margin: 0;
+    }
+}
+
+.description {
+    margin: 0 5%;
+    text-align: center;
 }
