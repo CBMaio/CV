@@ -7,11 +7,10 @@
 
 .container-fluid {
     padding: 0;
-    height: 88vh;
 }
 
 .container-fluid h3 {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
 }
 
 .header-div{
@@ -27,10 +26,6 @@
     letter-spacing: 1px;
 }
 
-.header-div p{
-
-font-size: 22px;
-}
 .body-div{
     display: flex;
 }
@@ -41,7 +36,7 @@ font-size: 22px;
 
 .col-left{
    background-color: #D4F0F0;
-   font-size: 1.2rem;
+   font-size: 1rem;
    padding: 1.5rem;
 }
 
