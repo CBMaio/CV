@@ -98,6 +98,11 @@ footer{
     border-bottom: 2px groove;
 }
 
+.link a{
+    color: black;
+    font-weight: bold;
+}
+
 @media only screen and (max-width: 768px){
     .body-div{
         flex-direction: column;
