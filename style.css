@@ -103,6 +103,10 @@ footer{
     font-weight: bold;
 }
 
+.sectionStyle{
+    width: 90%;
+}
+
 @media only screen and (max-width: 768px){
     .body-div{
         flex-direction: column;
