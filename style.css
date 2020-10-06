@@ -140,5 +140,9 @@ footer{
 
 .description {
     margin: 0 5%;
+    text-align: justify;
+}
+
+.description .link {
     text-align: center;
 }
